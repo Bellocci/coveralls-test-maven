@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      workdir: com.examples.myproject
+      workdir: testCoveralls
 
     name: Build with Java 11 on Linux
     steps:
